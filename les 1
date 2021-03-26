@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+  Dit is de head
+  <title>Home - Dit is de paginatitel</title>
+</head>
+<body>
+
+<h1>Dit is een kop (heading)</h1>
+<p>Hier een paragraaf tekst.</p>
+
+</body>
+</html>
